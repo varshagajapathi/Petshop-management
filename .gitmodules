@@ -1,0 +1,6 @@
+[submodule "int-project/src"]
+    path = int-project/src
+    url = https://github.com/your-username/your-repo.git
+[submodule "Petshop-management"]
+	path = Petshop-management
+	url = https://github.com/varshagajapathi/Petshop-management
